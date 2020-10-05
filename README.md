@@ -1,6 +1,6 @@
-<img src="https://www.feed-the-beast.com/img/logo_ftb.b4292827.png" align="right" height=150/>
+<img src="https://www.feed-the-beast.com/img/logo_ftb.b4292827.png" height=150/>
 
-<img src="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/img/header/logo.png"/>
+<img src="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/img/header/logo.png" height=150/>
 
 # How to play Minecraft with Feed The Beast mod packs
 ## **Here are the basic steps for getting Minecraft setup to use mods:**
