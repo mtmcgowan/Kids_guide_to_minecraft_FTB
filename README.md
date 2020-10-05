@@ -1,4 +1,4 @@
-<img src="https://www.feed-the-beast.com/img/logo_ftb.b4292827.png" align="right" style="height: 10px"/>
+<img src="https://www.feed-the-beast.com/img/logo_ftb.b4292827.png" align="right" style="height: 1"/>
 
 <img src="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/img/header/logo.png"/>
 
